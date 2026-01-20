@@ -36,7 +36,7 @@ projeto_loja/
 ├── config.py          # Centralização de Configurações
 ├── .env               # Variáveis de Ambiente (Segurança)
 └── run.py             # Ponto de entrada da aplicação
-
+```
 ## 📸 Screenshots
 
 Aqui está o fluxo completo de funcionamento do sistema:
